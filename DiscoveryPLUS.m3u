@@ -1,41 +1,44 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [ENGLISH]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [ENGLISH]
 http://127.0.0.1:5000/dplus/discovery-eng
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [HINDI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [HINDI]
 http://127.0.0.1:5000/dplus/discovery-hin
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [BENGALI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [BENGALI]
 http://127.0.0.1:5000/dplus/discovery-ben
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [TAMIL]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [TAMIL]
 http://127.0.0.1:5000/dplus/discovery-tam
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [TELUGU]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [TELUGU]
 http://127.0.0.1:5000/dplus/discovery-tel
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [KANNADA]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [KANNADA]
 http://127.0.0.1:5000/dplus/discovery-kan
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [MALAYALAM]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [MALAYALAM]
 http://127.0.0.1:5000/dplus/discovery-mal
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [ENGLISH]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [ENGLISH]
 http://127.0.0.1:5000/dplus/discoverysci-eng
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [HINDI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [HINDI]
 http://127.0.0.1:5000/dplus/discoverysci-hin
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [TAMIL]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [TAMIL]
 http://127.0.0.1:5000/dplus/discoverysci-tam
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Investigation [English]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery Investigation [English]
 http://127.0.0.1:5000/dplus/discoveryid-eng
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Investigation [HINDI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery Investigation [HINDI]
 http://127.0.0.1:5000/dplus/discoveryid-hin
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [ENGLISH]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryturbo.png",Discovery Turbo [ENGLISH]
+http://127.0.0.1:5000/dplus/discoveryturbo
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [ENGLISH]
 http://127.0.0.1:5000/dplus/animalplanet-eng
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [HINDI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [HINDI]
 http://127.0.0.1:5000/dplus/animalplanet-hin
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [TAMIL]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [TAMIL]
 http://127.0.0.1:5000/dplus/animalplanet-tam
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",TLC [ENGLISH]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png",TLC [ENGLISH]
 http://127.0.0.1:5000/dplus/tlc-eng
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",TLC [HINDI]
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png",TLC [HINDI]
 http://127.0.0.1:5000/dplus/tlc-hin
