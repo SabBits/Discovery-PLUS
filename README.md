@@ -39,6 +39,7 @@
 
 # 📘 Note:
 🚨 More Channels Will Be Added After My Exam <br>
+🚨 All Channels Changes Their Quality Auto <br>
 🚨 I Will Be Less Active For My Exam
 
 # 💛 Contact Me:
