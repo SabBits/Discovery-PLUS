@@ -1,17 +1,41 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [BENGALI]
-http://127.0.0.1:5000/dplus/discoveryben
-#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [HINDI]
-http://127.0.0.1:5000/dplus/discoveryhin
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [ENGLISH]
-http://127.0.0.1:5000/dplus/discoveryeng
+http://127.0.0.1:5000/dplus/discovery-eng
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [HINDI]
+http://127.0.0.1:5000/dplus/discovery-hin
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [BENGALI]
+http://127.0.0.1:5000/dplus/discovery-ben
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [TAMIL]
-http://127.0.0.1:5000/dplus/discoverytam
+http://127.0.0.1:5000/dplus/discovery-tam
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [TELUGU]
-http://127.0.0.1:5000/dplus/discoverytel
+http://127.0.0.1:5000/dplus/discovery-tel
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [KANNADA]
-http://127.0.0.1:5000/dplus/discoverykan
+http://127.0.0.1:5000/dplus/discovery-kan
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery [MALAYALAM]
-http://127.0.0.1:5000/dplus/discoverymal
+http://127.0.0.1:5000/dplus/discovery-mal
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [ENGLISH]
+http://127.0.0.1:5000/dplus/discoverysci-eng
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [HINDI]
+http://127.0.0.1:5000/dplus/discoverysci-hin
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Science [TAMIL]
+http://127.0.0.1:5000/dplus/discoverysci-tam
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Investigation [English]
+http://127.0.0.1:5000/dplus/discoveryid-eng
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Discovery Investigation [HINDI]
+http://127.0.0.1:5000/dplus/discoveryid-hin
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [ENGLISH]
+http://127.0.0.1:5000/dplus/animalplanet-eng
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [HINDI]
+http://127.0.0.1:5000/dplus/animalplanet-hin
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Animal Planet [TAMIL]
+http://127.0.0.1:5000/dplus/animalplanet-tam
+
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",TLC [ENGLISH]
+http://127.0.0.1:5000/dplus/tlc-eng
+#EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",TLC [HINDI]
+http://127.0.0.1:5000/dplus/tlc-hin
