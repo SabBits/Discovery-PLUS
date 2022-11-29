@@ -1,44 +1,43 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/mitthu786/tvepg/main/jiotv/epg.xml"
 # Collected And Uploaded By (https://github.com/sabbiriptv)
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [ENGLISH]
-http://127.0.0.1:5000/dplus/discovery-eng
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-eng
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [HINDI]
-http://127.0.0.1:5000/dplus/discovery-hin
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-hin
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [BENGALI]
-http://127.0.0.1:5000/dplus/discovery-ben
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-ben
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [TAMIL]
-http://127.0.0.1:5000/dplus/discovery-tam
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-tam
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [TELUGU]
-http://127.0.0.1:5000/dplus/discovery-tel
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-tel
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [KANNADA]
-http://127.0.0.1:5000/dplus/discovery-kan
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-kan
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discovery.png",Discovery [MALAYALAM]
-http://127.0.0.1:5000/dplus/discovery-mal
+https://sabbirhasan.pythonanywhere.com/dplus/discovery-mal
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [ENGLISH]
-http://127.0.0.1:5000/dplus/discoverysci-eng
+https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-eng
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [HINDI]
-http://127.0.0.1:5000/dplus/discoverysci-hin
+https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-hin
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryscience.png",Discovery Science [TAMIL]
-http://127.0.0.1:5000/dplus/discoverysci-tam
+https://sabbirhasan.pythonanywhere.com/dplus/discoverysci-tam
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery Investigation [English]
-http://127.0.0.1:5000/dplus/discoveryid-eng
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-eng
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Discovery Investigation [HINDI]
-http://127.0.0.1:5000/dplus/discoveryid-hin
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryid-hin
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/discoveryturbo.png",Discovery Turbo [ENGLISH]
-http://127.0.0.1:5000/dplus/discoveryturbo
+https://sabbirhasan.pythonanywhere.com/dplus/discoveryturbo
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [ENGLISH]
-http://127.0.0.1:5000/dplus/animalplanet-eng
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-eng
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [HINDI]
-http://127.0.0.1:5000/dplus/animalplanet-hin
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-hin
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/animalplanet.png",Animal Planet [TAMIL]
-http://127.0.0.1:5000/dplus/animalplanet-tam
+https://sabbirhasan.pythonanywhere.com/dplus/animalplanet-tam
 
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png",TLC [ENGLISH]
-http://127.0.0.1:5000/dplus/tlc-eng
+https://sabbirhasan.pythonanywhere.com/dplus/tlc-eng
 #EXTINF:-1 group-title="Discovery-PLUS" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/tlc.png",TLC [HINDI]
-http://127.0.0.1:5000/dplus/tlc-hin
+https://sabbirhasan.pythonanywhere.com/dplus/tlc-hin
