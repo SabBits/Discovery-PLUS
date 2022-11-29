@@ -38,7 +38,7 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 More Channels Will Be Added After My Exam
+🚨 More Channels Will Be Added After My Exam <br>
 🚨 I Will Be Less Active For My Exam
 
 # 💛 Contact Me:
