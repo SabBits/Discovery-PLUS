@@ -1,3 +1,8 @@
+<div align="center">
+  <h1>Join: <a href="https://t.me/realcodecrafters">CodeCrafters</a></h1>
+  <h1>⚠️ This project is no longer maintained ⚠️</h1>
+</div>
+
 <h1 align="center">
   <img alt="cgapp logo" src="https://static.wikia.nocookie.net/logopedia/images/e/e9/Discovery_plus_ico.svg/revision/latest/scale-to-width-down/250?cb=20210726040631" width="224px"/><br/>
   ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/Discovery-PLUS/main/DiscoveryPLUS.m3u">Discovery+</a> ⭐️
@@ -38,9 +43,9 @@
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
 # 📘 Note:
-🚨 More Channels Will Be Added After My Exam <br>
-🚨 All Channels Changes Their Quality Auto <br>
-🚨 I Will Be Less Active For My Exam
+🚨 This project is no longer maintained
 
 # 💛 Contact Me:
-<a href="mailto:sabbirhasan10000bd@gmail.com"><img src="https://img.shields.io/badge/Email-sabbirhasan10000bd@gmail.com-teal?style=for-the-badge&logo=gmail" /></a>
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sab_bits)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/603268462940389401)
+[![email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sabbits@proton.me)
